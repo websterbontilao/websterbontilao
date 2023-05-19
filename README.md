@@ -14,7 +14,7 @@
 
 ### Languages
 <!-- PHP -->
-[<img height="32px" width="32px" src="https://cdn.simpleicons.org/php/777BB4" />]
+<img height="50px" width="50px" src="https://cdn.simpleicons.org/php/777BB4" />
 <!-- Javascript -->
 <!-- JQuery -->
 
