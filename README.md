@@ -24,10 +24,18 @@
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+<img align="left" src="https://img.shields.io/badge/DB2-00952B?style=for-the-badge&logo=ibm&logoColor=white">
 
 -
-<!-- <img align="left" src="" >  -->
 
+<h3>Alliance Software Development Inc. - <i>Junior Software Developer</i></h3>
+
+##### April 2018 - November 2020
+
+<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+
+<!-- <img align="left" src="" >  -->
+-
 # Skillset
 ### Programming Languages
 
