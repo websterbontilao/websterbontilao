@@ -16,7 +16,7 @@
 
 # Work Experiences
 
-<h3>Applic8 Software Development Inc. - <i>Mid-level Software Developer</i></h3>
+<h3> <a href="https://applic8.com/">Applic8 Software Development Inc.</a> - <i>Mid-level Software Developer</i></h3>
 
 ##### December 2020 - February 2023
 
@@ -28,7 +28,7 @@
 
 -
 
-<h3>Alliance Software Development Inc. - <i>Junior Software Developer</i></h3>
+<h3><a href="https://www.alliance.com.ph">Alliance Software Development Inc.</a> - <i>Junior Software Developer</i></h3>
 
 ##### April 2018 - November 2020
 
