@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello, I am Webster 
+    Hello, I am Webster. Welcome to my humble profile.
 </h1>
 
 - 🌱 I’m currently learning front-end frameworks, specifically Vuejs <img align="center" height="20px" width="20px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />
@@ -14,23 +14,33 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">
-    Skillset
-</h2>
-<h1></h1>
+# Work Experiences
 
+<h3>Applic8 Software Development Inc. - <i>Mid-level Software Developer</i></h3>
+
+##### December 2020 - February 2023
+
+<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+
+-
+<!-- <img align="left" src="" >  -->
+
+# Skillset
 ### Programming Languages
 
 <!-- <img align="center" height="50px" width="50px" style="margin-right: 5px" src="https://cdn.simpleicons.org/php/777BB4" /> -->
 
 <!-- PHP -->
-<img align="center" height="50px" width="50px" style="margin-right: 5px" src="https://cdn.simpleicons.org/php/777BB4" />
+<img  align="left" height="50px" width="50px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <!-- Javascript -->
-<img align="center" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img align="left" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
 <!-- JQuery -->
-<img align="center" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/jquery/0769AD" />
+<img align="left" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/jquery/0769AD" />
 
 ### 
-
+-
 <!-- Github Profile Visits -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebsterbontilao%2Fhit-counter&count_bg=%23636363&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwebsterbontilao%2Fhit-counter&count_bg=%23636363&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/></a> -->
