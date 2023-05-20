@@ -16,7 +16,7 @@
 
 # Work Experiences
 
-<h3> <a href="https://applic8.com/">Applic8 Software Development Inc.</a> - <i>Mid-level Software Developer</i></h3>
+### [Applic8 Software Development Inc.](https://applic8.com/) - _Mid-level Software Developer_
 
 ##### December 2020 - February 2023
 
@@ -26,13 +26,12 @@
 
 <img align="left" src="https://img.shields.io/badge/DB2-00952B?style=for-the-badge&logo=ibm&logoColor=white">
 
--
-
-<h3><a href="https://www.alliance.com.ph">Alliance Software Development Inc.</a> - <i>Junior Software Developer</i></h3>
+### [Alliance Software Development Inc.](https://www.alliance.com.ph) - _Junior Software Developer_
 
 ##### April 2018 - November 2020
 
 <img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+
 
 <!-- <img align="left" src="" >  -->
 -
