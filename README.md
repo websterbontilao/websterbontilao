@@ -30,7 +30,7 @@
 
 ##### April 2018 - November 2020
 
-<img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
 
 
 <!-- <img align="left" src="" >  -->
@@ -45,7 +45,7 @@
 <!-- Javascript -->
 <img align="left" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
 <!-- JQuery -->
-<img align="left" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/jquery/0769AD" />
+<img height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/jquery/0769AD" />
 
 ### 
 -
