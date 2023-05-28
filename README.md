@@ -2,8 +2,11 @@
     Hello, I am Webster. Welcome to my humble profile.
 </h1>
 
-- 🌱 I’m currently learning front-end frameworks, specifically Vuejs <img align="center" height="20px" width="20px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />
+- 🌱 I’m currently learning front-end frameworks, specifically Vue.js <img align="center" height="20px" width="20px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />. Also exploring AWS mainly for deploying a small game server using EC2.
 - ⚡ Fun fact: I love playing computer games and brewing coffee
+- 📫 How to reach me:
+  - [Gmail](mailto:websterbontilao+github@gmail.com)
+  - [ProtonMail](mailto:websterbontilao+github@pm.me)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -39,12 +42,21 @@
 
 <!-- <img align="center" height="50px" width="50px" style="margin-right: 5px" src="https://cdn.simpleicons.org/php/777BB4" /> -->
 
-<!-- PHP -->
-<img  align="left" height="50px" width="50px" style="margin-right: 5px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<!-- Javascript -->
-<img align="left" height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<!-- JQuery -->
-<img height="30px" width="30px" style="margin-right: 5px" src="https://cdn.simpleicons.org/jquery/0769AD" />
+[![Programming Languages](https://skillicons.dev/icons?i=php,mysql,javascript,python,bash&theme=dark)](https://skillicons.dev)
+
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=jquery,laravel&theme=dark)](https://skillicons.dev)
+
+### Web Development
+[![Frameworks](https://skillicons.dev/icons?i=html,css,&theme=dark)](https://skillicons.dev)
+
+### Development Tools
+[![Development Tools](https://skillicons.dev/icons?i=git,vscode,postman,docker,md&theme=dark)](https://skillicons.dev)
+
+### Operating System
+[![OS](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+
 
 ### 
 <!-- Github Profile Visits -->
