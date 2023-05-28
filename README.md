@@ -24,7 +24,7 @@
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<img src="https://img.shields.io/badge/DB2-00952B?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/DB2-00952B?style=for-the-badge&logo=ibm&logoColor=black">
 
 ### [Alliance Software Development Inc.](https://www.alliance.com.ph) - _Junior Software Developer_
 
