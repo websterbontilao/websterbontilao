@@ -2,7 +2,7 @@
     Hello, I am Webster. Welcome to my humble profile.
 </h1>
 
-- 🌱 I’m currently learning front-end frameworks, specifically Vue.js <img align="center" height="20px" width="20px" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" />. Also exploring AWS mainly for deploying a small game server using EC2.
+- 🌱 I’m currently learning front-end frameworks, specifically ReactJs. Also exploring AWS mainly for deploying a small game server using EC2.
 - ⚡ Fun fact: I love playing computer games and brewing coffee
 - 📫 How to reach me:
   - [Gmail](mailto:websterbontilao+github@gmail.com)
